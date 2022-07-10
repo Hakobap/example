@@ -1,0 +1,6 @@
+#/vendor
+/.idea
+/nbproject/private/
+#/public/site/css/style.css
+.env
+.env.origin

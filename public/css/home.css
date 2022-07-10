@@ -1,0 +1,49 @@
+.text-center {
+    margin-top: 10px;
+}
+.movement-statistics{
+    margin-bottom: 20px;
+}
+
+.col-sm-12{
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+.home-container {
+    text-align: center;
+    cursor: help;
+    display: inline-block;
+    margin-right: 60px;
+}
+
+.earnings-statistics{
+    line-height: 33px;
+    height: 33px;
+}
+
+.fa-users, .fa{
+    font-size: 30pt;
+    color: #5D8AA8;
+}
+
+.grid{
+    margin-top: 5px;
+    font: 13px/27px Arial, sans-serif;
+}
+
+.numbers{
+    font-size: 13pt;
+}
+
+.rub{
+    font-size: 12pt;
+}
+
+.alert-info{
+    font-weight: bold;
+}
+
+.head{
+    width: 20%;
+}

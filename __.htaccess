@@ -1,0 +1,11 @@
+# Rewrite rules 
+RewriteEngine on
+RewriteCond %{REQUEST_URI} !^public
+RewriteRule ^(.*)$ public/$1 [L]
+
+
+# Security: Don't allow browsing of directories
+Options -Indexes
+
+# Hide the contents of directories
+IndexIgnore *
